@@ -13,6 +13,15 @@ module.exports = {
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
     },
+    screens: {
+      // for custom media query screen
+    },
+    colors: {
+      // for custom colors
+    },
+    fontFamily: {
+      // for font list
+    }
   },
   plugins: [],
 }

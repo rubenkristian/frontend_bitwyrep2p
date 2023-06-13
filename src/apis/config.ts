@@ -1,3 +1,6 @@
+/**
+ * this file used to interceptor http request using axios library
+ */
 import axios, { AxiosResponse, InternalAxiosRequestConfig } from 'axios';
 
 export const apiRequestInstance = axios.create({
